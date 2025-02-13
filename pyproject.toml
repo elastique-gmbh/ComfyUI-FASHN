@@ -1,5 +1,5 @@
 [project]
-name = "comfyui-fashn-elatique"
+name = "comfyui-fashn"
 description = "Node for the FASHN Virtual Try-On API. Requires an API Key from fashn.ai"
 version = "1.0.2"
 license = {file = "LICENSE"}
